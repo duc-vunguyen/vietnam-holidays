@@ -1,92 +1,50 @@
 [
   {
-    "year": 2026,
+    "year": 2025,
     "holidays": [
-      {
-        "description": "Tết Dương Lịch (New Year's Day)",
-        "date": "2026-01-01"
-      },
-      {
-        "description": "Tết Nguyên Đán - Ngày 30 Tết",
-        "date": "2026-02-16"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 1",
-        "date": "2026-02-17"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 2",
-        "date": "2026-02-18"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 3",
-        "date": "2026-02-19"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 4",
-        "date": "2026-02-20"
-      },
-      {
-        "description": "Giỗ Tổ Hùng Vương",
-        "date": "2026-03-28"
-      },
-      {
-        "description": "Ngày Giải Phóng Miền Nam (Reunification Day)",
-        "date": "2026-04-30"
-      },
-      {
-        "description": "Quốc tế Lao động (International Workers' Day)",
-        "date": "2026-05-01"
-      },
-      {
-        "description": "Quốc khánh Việt Nam (Vietnam National Day)",
-        "date": "2026-09-02"
-      }
+      { "date": "2025-01-01", "description": "Tết Dương Lịch (New Year's Day)" },
+      { "date": "2025-01-25", "description": "Tết Nguyên Đán - Day 1 (Vietnamese New Year)" },
+      { "date": "2025-01-26", "description": "Tết Nguyên Đán - Day 2 (Vietnamese New Year)" },
+      { "date": "2025-01-27", "description": "Tết Nguyên Đán - Day 3 (Vietnamese New Year)" },
+      { "date": "2025-01-28", "description": "Tết Nguyên Đán - Day 4 (Vietnamese New Year)" },
+      { "date": "2025-01-29", "description": "Tết Nguyên Đán - Day 5 (Vietnamese New Year)" },
+      { "date": "2025-01-30", "description": "Tết Nguyên Đán - Day 6 (Vietnamese New Year)" },
+      { "date": "2025-01-31", "description": "Tết Nguyên Đán - Day 7 (Vietnamese New Year)" },
+      { "date": "2025-02-01", "description": "Tết Nguyên Đán - Day 8 (Vietnamese New Year)" },
+      { "date": "2025-02-02", "description": "Tết Nguyên Đán - Day 9 (Vietnamese New Year)" },
+      { "date": "2025-04-07", "description": "Giỗ Tổ Hùng Vương (Hung Kings' Commemoration Day)" },
+      { "date": "2025-04-30", "description": "Ngày Giải Phóng (Liberation Day)" },
+      { "date": "2025-05-01", "description": "Ngày Quốc Tế Lao Động (International Labor Day)" },
+      { "date": "2025-05-02", "description": "Ngày Quốc Tế Lao Động - Extended (Labor Day)" },
+      { "date": "2025-05-04", "description": "Ngày Quốc Tế Lao Động - Extended (Labor Day)" },
+      { "date": "2025-08-30", "description": "Lễ Quốc Khánh - Extended (National Day)" },
+      { "date": "2025-08-31", "description": "Lễ Quốc Khánh - Extended (National Day)" },
+      { "date": "2025-09-01", "description": "Lễ Quốc Khánh (National Day)" },
+      { "date": "2025-09-02", "description": "Lễ Quốc Khánh (National Day)" }
     ]
   },
   {
-    "year": 2025,
+    "year": 2026,
     "holidays": [
-      {
-        "description": "Tết Dương Lịch (New Year's Day)",
-        "date": "2025-01-01"
-      },
-      {
-        "description": "Tết Nguyên Đán - Ngày 30 Tết",
-        "date": "2025-01-28"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 1",
-        "date": "2025-01-29"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 2",
-        "date": "2025-01-30"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 3",
-        "date": "2025-01-31"
-      },
-      {
-        "description": "Tết Nguyên Đán - Mùng 4",
-        "date": "2025-02-01"
-      },
-      {
-        "description": "Giỗ Tổ Hùng Vương",
-        "date": "2025-04-10"
-      },
-      {
-        "description": "Ngày Giải Phóng Miền Nam (Reunification Day)",
-        "date": "2025-04-30"
-      },
-      {
-        "description": "Quốc tế Lao động (International Workers' Day)",
-        "date": "2025-05-01"
-      },
-      {
-        "description": "Quốc khánh Việt Nam (Vietnam National Day)",
-        "date": "2025-09-02"
-      }
+      { "date": "2026-01-01", "description": "Tết Dương Lịch (New Year's Day)" },
+      { "date": "2026-02-14", "description": "Tết Nguyên Đán - Day 1 (Vietnamese New Year)" },
+      { "date": "2026-02-15", "description": "Tết Nguyên Đán - Day 2 (Vietnamese New Year)" },
+      { "date": "2026-02-16", "description": "Tết Nguyên Đán - Day 3 (Vietnamese New Year)" },
+      { "date": "2026-02-17", "description": "Tết Nguyên Đán - Day 4 (Vietnamese New Year)" },
+      { "date": "2026-02-18", "description": "Tết Nguyên Đán - Day 5 (Vietnamese New Year)" },
+      { "date": "2026-02-19", "description": "Tết Nguyên Đán - Day 6 (Vietnamese New Year)" },
+      { "date": "2026-02-20", "description": "Tết Nguyên Đán - Day 7 (Vietnamese New Year)" },
+      { "date": "2026-02-21", "description": "Tết Nguyên Đán - Day 8 (Vietnamese New Year)" },
+      { "date": "2026-02-22", "description": "Tết Nguyên Đán - Day 9 (Vietnamese New Year)" },
+      { "date": "2026-04-26", "description": "Giỗ Tổ Hùng Vương - Day 1 (Hung Kings' Commemoration Day)" },
+      { "date": "2026-04-27", "description": "Giỗ Tổ Hùng Vương - Day 2 (Hung Kings' Commemoration Day)" },
+      { "date": "2026-04-30", "description": "Ngày Giải Phóng (Liberation Day)" },
+      { "date": "2026-05-01", "description": "Ngày Quốc Tế Lao Động (International Labor Day)" },
+      { "date": "2026-05-02", "description": "Ngày Quốc Tế Lao Động - Extended (International Labor Day)" },
+      { "date": "2026-05-03", "description": "Ngày Quốc Tế Lao Động - Extended (International Labor Day)" },
+      { "date": "2026-08-31", "description": "Lễ Quốc Khánh (National Day)" },
+      { "date": "2026-09-01", "description": "Lễ Quốc Khánh (National Day)" },
+      { "date": "2026-09-02", "description": "Lễ Quốc Khánh (National Day)" }
     ]
   }
 ]
